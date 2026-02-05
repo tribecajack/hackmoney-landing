@@ -68,7 +68,7 @@ export default function HowItWorks() {
                 Ready to experience best price execution?
               </h3>
               <p className="text-gray-400">
-                Join thousands of traders using Intentra for optimal DeFi trades
+                Join the sophisticated cohort of advanced traders.
               </p>
             </div>
             <button className="px-8 py-4 bg-gradient-to-r from-orange-500 to-yellow-500 rounded-xl font-semibold text-gray-900 hover:shadow-xl hover:shadow-orange-500/50 transition-all whitespace-nowrap">
