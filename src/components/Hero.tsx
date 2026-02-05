@@ -53,14 +53,10 @@ export default function Hero() {
             </button>
           </div>
 
-          <div className="mt-20 grid grid-cols-3 gap-8 max-w-3xl mx-auto">
+          <div className="mt-20 grid grid-cols-2 gap-8 max-w-3xl mx-auto">
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-white mb-2">$2.4B+</div>
+              <div className="text-3xl md:text-4xl font-bold text-white mb-2">$100B+</div>
               <div className="text-gray-400">Volume Processed</div>
-            </div>
-            <div className="text-center border-l border-r border-gray-800">
-              <div className="text-3xl md:text-4xl font-bold text-white mb-2">50K+</div>
-              <div className="text-gray-400">Active Users</div>
             </div>
             <div className="text-center">
               <div className="text-3xl md:text-4xl font-bold text-white mb-2">99.9%</div>
