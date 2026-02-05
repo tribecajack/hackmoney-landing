@@ -27,10 +27,13 @@ export default function CTA() {
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
-          <button className="group px-8 py-4 bg-gradient-to-r from-orange-500 to-yellow-500 rounded-xl font-semibold text-gray-900 hover:shadow-2xl hover:shadow-orange-500/50 transition-all flex items-center gap-2 text-lg">
+          <a
+            href="http://localhost:6969/"
+            className="group px-8 py-4 bg-gradient-to-r from-orange-500 to-yellow-500 rounded-xl font-semibold text-gray-900 hover:shadow-2xl hover:shadow-orange-500/50 transition-all flex items-center gap-2 text-lg"
+          >
             Launch Application
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-          </button>
+          </a>
           <button className="px-8 py-4 bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl font-semibold text-white hover:bg-gray-800 transition-all flex items-center gap-2 text-lg">
             <BookOpen className="w-5 h-5" />
             Documentation
