@@ -27,7 +27,7 @@ export default function Hero() {
             <span>Powered by Ultra Labs • Live backend (Sepolia)</span>
           </div>
 
-          <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight">
+          <h1 className="text-[clamp(1.3rem,4.2vw,4rem)] font-bold text-white mb-6 leading-tight">
             <span className="block whitespace-nowrap">Institutional Liquidity.</span>
             <span className="block whitespace-nowrap bg-gradient-to-r from-orange-400 via-yellow-400 to-orange-500 bg-clip-text text-transparent">
               Self Custody. On-chain
