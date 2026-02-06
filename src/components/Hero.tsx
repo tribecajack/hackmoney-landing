@@ -28,10 +28,10 @@ export default function Hero() {
           </div>
 
           <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold text-white mb-6 leading-tight">
-            Best Price.
+            Institutional Liquidity.
             <br />
             <span className="bg-gradient-to-r from-orange-400 via-yellow-400 to-orange-500 bg-clip-text text-transparent">
-              Every Trade.
+              Self Custody. On-chain
             </span>
           </h1>
 
